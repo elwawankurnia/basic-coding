@@ -1,3 +1,5 @@
+sekarang adalah update dari master 19012018. nice kan?
+jamiilun kitaabatan... ^_^
 # hello-world
 Tradisi mulai program
 marhaban batur,
