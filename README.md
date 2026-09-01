@@ -1,5 +1,5 @@
 06/2021, mulai belajar kembali coding
-untuk mulai C++ dulu, rencananya nanti dikolaborasikan dengan perangkat elektronik
+untuk mulai C / C++ dulu, rencananya nanti dikolaborasikan dengan perangkat elektronik
 
 
 # hello-world
